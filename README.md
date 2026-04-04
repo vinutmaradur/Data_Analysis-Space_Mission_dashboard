@@ -39,8 +39,8 @@ This dashboard helps users explore patterns in space exploration and understand 
 
 **Key Visualizations** </br>
 1.Space Missions Over Time </br>
-    - Shows trends in mission launches from 1950s to present </br>
-    - Identifies growth phases and peak activity periods 
+        - Shows trends in mission launches from 1950s to present </br>
+        - Identifies growth phases and peak activity periods 
 2.Rocket Usage Analysis
     - Displays most frequently used rockets
     - Includes success rate comparison 
