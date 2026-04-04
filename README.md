@@ -29,7 +29,7 @@ This dashboard helps users explore patterns in space exploration and understand 
 ---
 
 # Dashboard Features
-KPI Metrics
+**KPI Metrics**
 - Total Missions: 4,630
 - Successful Missions: 4,162
 - Failed Missions: 357
@@ -37,26 +37,26 @@ KPI Metrics
 - Total Companies: 62
 - Launch Locations: 158
 
-Key Visualizations </br>
-📈 Space Missions Over Time
+**Key Visualizations** </br>
+1.Space Missions Over Time
 - Shows trends in mission launches from 1950s to present
 - Identifies growth phases and peak activity periods </br>
-🚀 Rocket Usage Analysis
+2.Rocket Usage Analysis
 - Displays most frequently used rockets
 - Includes success rate comparison </br>
-✅ Rocket Success Rate
+3.Rocket Success Rate
 - Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) </br>
-🌍 Mission Launch Map
+4.Mission Launch Map
 - Geographic distribution of launch sites worldwide </br>
-🏢 Top Launch Organizations
+5.Top Launch Organizations
 - Countries/companies with highest number of missions
 - USSR/Russia and USA dominate </br>
-📊 Success vs Failure Distribution
+6.Success vs Failure Distribution
 - Majority missions are successful (~90%)
 - Small proportion of failures and partial failures </br>
-📍 Launch Sites Analysis
+7.Launch Sites Analysis
 - Most active launch sites like Baikonur Cosmodrome </br>
-📅 Launch Timeline
+8.Launch Timeline
 - Tracks missions over years by type
 
 ---
@@ -79,29 +79,29 @@ These filters allow users to dynamically explore the dataset.
 ---
 
 # Future Improvements
-🔥Advanced Features
-📊 Predictive Analysis (Forecasting) for future missions
-🤖 AI-based anomaly detection for mission failures
-📉 Trend forecasting using Tableau analytics
-🎯 Dashboard Enhancements
-🎚️ Add dynamic KPI cards (change with filters)
-🔍 Drill-down from country → company → rocket
-📊 Add tooltip dashboards (viz in tooltip)
-🌍 Data Expansion
+- 🔥Advanced Features
+- 📊 Predictive Analysis (Forecasting) for future missions
+- 🤖 AI-based anomaly detection for mission failures
+= 📉 Trend forecasting using Tableau analytics
+= 🎯 Dashboard Enhancements
+- 🎚️ Add dynamic KPI cards (change with filters)
+- 🔍 Drill-down from country → company → rocket
+- 📊 Add tooltip dashboards (viz in tooltip)
+- 🌍 Data Expansion
 Include:
-Mission cost 💰
-Payload type 📦
-Orbit type 🛰️
-Astronaut missions 👨‍🚀
-⚡ UX Improvements
-Add dark/light theme toggle
-Add clear filters button
-Improve mobile responsiveness
-🧠 Advanced Analytics
-Correlation between:
-Cost vs Success
-Rocket type vs failure rate
-Cohort analysis by decade
+    - Mission cost 💰
+    - Payload type 📦
+    - Orbit type 🛰️
+    - Astronaut missions 👨‍🚀
+- ⚡ UX Improvements
+    - Add dark/light theme toggle
+    - Add clear filters button
+    - Improve mobile responsiveness
+- 🧠 Advanced Analytics
+    - Correlation between:
+      - Cost vs Success
+      - Rocket type vs failure rate
+      - Cohort analysis by decade
 
 ---
 
