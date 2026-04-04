@@ -45,21 +45,27 @@ This dashboard helps users explore patterns in space exploration and understand 
   
 **Rocket Usage Analysis** </br>
 - Displays most frequently used rockets
-- Includes success rate comparison 
-3.Rocket Success Rate
-    - Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) 
-4.Mission Launch Map
-    - Geographic distribution of launch sites worldwide 
-5.Top Launch Organizations
-    - Countries/companies with highest number of missions
-    - USSR/Russia and USA dominate 
-6.Success vs Failure Distribution
-    - Majority missions are successful (~90%)
-    - Small proportion of failures and partial failures 
-7.Launch Sites Analysis
-    - Most active launch sites like Baikonur Cosmodrome 
-8.Launch Timeline
-    - Tracks missions over years by type
+- Includes success rate comparison
+  
+**Rocket Success Rate** </br>
+- Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%)
+  
+**Mission Launch Map** </br>
+- Geographic distribution of launch sites worldwide
+  
+**Top Launch Organizations** </br>
+- Countries/companies with highest number of missions
+- USSR/Russia and USA dominate
+  
+**Success vs Failure Distribution** </br>
+- Majority missions are successful (~90%)
+- Small proportion of failures and partial failures
+  
+**Launch Sites Analysis** </br>
+- Most active launch sites like Baikonur Cosmodrome
+  
+**Launch Timeline** </br>
+- Tracks missions over years by type
 
 ---
 
