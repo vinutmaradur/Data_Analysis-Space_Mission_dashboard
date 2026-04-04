@@ -82,8 +82,8 @@ These filters allow users to dynamically explore the dataset.
 - 🔥Advanced Features
 - 📊 Predictive Analysis (Forecasting) for future missions
 - 🤖 AI-based anomaly detection for mission failures
-= 📉 Trend forecasting using Tableau analytics
-= 🎯 Dashboard Enhancements
+- 📉 Trend forecasting using Tableau analytics
+- 🎯 Dashboard Enhancements
 - 🎚️ Add dynamic KPI cards (change with filters)
 - 🔍 Drill-down from country → company → rocket
 - 📊 Add tooltip dashboards (viz in tooltip)
