@@ -8,6 +8,17 @@ This dashboard helps users explore patterns in space exploration and understand 
 
 ---
 
+# screenshot 📸
+
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot1.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot2.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot3.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot4.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Data_Analysis-Space_Mission_dashboard/blob/main/screenshot/screenshot5.png?raw=true)
+
+---
+
 # Objectives 🎯
 - Analyze global space mission trends over time
 - Compare success vs failure rates
@@ -111,6 +122,8 @@ This dashboard provides a comprehensive view of global space missions, helping u
 ## Happy coding! 💻
 
 Let me know if you’d like to customize any sections further!
+
+---
 
 **👨‍💻 Author** </br>
 Vinut Maradur </br>
