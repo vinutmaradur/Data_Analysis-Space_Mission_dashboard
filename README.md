@@ -40,22 +40,22 @@ This dashboard helps users explore patterns in space exploration and understand 
 **Key Visualizations** </br>
 1.Space Missions Over Time
 - Shows trends in mission launches from 1950s to present
-- Identifies growth phases and peak activity periods </br>
+- Identifies growth phases and peak activity periods 
 2.Rocket Usage Analysis
 - Displays most frequently used rockets
-- Includes success rate comparison </br>
+- Includes success rate comparison 
 3.Rocket Success Rate
-- Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) </br>
+- Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) 
 4.Mission Launch Map
-- Geographic distribution of launch sites worldwide </br>
+- Geographic distribution of launch sites worldwide 
 5.Top Launch Organizations
 - Countries/companies with highest number of missions
-- USSR/Russia and USA dominate </br>
+- USSR/Russia and USA dominate 
 6.Success vs Failure Distribution
 - Majority missions are successful (~90%)
-- Small proportion of failures and partial failures </br>
+- Small proportion of failures and partial failures 
 7.Launch Sites Analysis
-- Most active launch sites like Baikonur Cosmodrome </br>
+- Most active launch sites like Baikonur Cosmodrome 
 8.Launch Timeline
 - Tracks missions over years by type
 
