@@ -38,8 +38,8 @@ This dashboard helps users explore patterns in space exploration and understand 
 - Launch Locations: 158
 
 **Key Visualizations** </br>
-1.Space Missions Over Time
-    - Shows trends in mission launches from 1950s to present
+1.Space Missions Over Time </br>
+    - Shows trends in mission launches from 1950s to present </br>
     - Identifies growth phases and peak activity periods 
 2.Rocket Usage Analysis
     - Displays most frequently used rockets
