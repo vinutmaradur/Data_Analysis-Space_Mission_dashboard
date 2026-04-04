@@ -29,7 +29,7 @@ This dashboard helps users explore patterns in space exploration and understand 
 ---
 
 # Dashboard Features
-**KPI Metrics**
+# KPI Metrics
 - Total Missions: 4,630
 - Successful Missions: 4,162
 - Failed Missions: 357
@@ -37,14 +37,15 @@ This dashboard helps users explore patterns in space exploration and understand 
 - Total Companies: 62
 - Launch Locations: 158
 
-**Key Visualizations** </br>
+# Key Visualizations </br>
 
 **Space Missions Over Time** </br>
 - Shows trends in mission launches from 1950s to present </br>
-- Identifies growth phases and peak activity periods 
-2.Rocket Usage Analysis
-    - Displays most frequently used rockets
-    - Includes success rate comparison 
+- Identifies growth phases and peak activity periods
+  
+**Rocket Usage Analysis** </br>
+- Displays most frequently used rockets
+- Includes success rate comparison 
 3.Rocket Success Rate
     - Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) 
 4.Mission Launch Map
