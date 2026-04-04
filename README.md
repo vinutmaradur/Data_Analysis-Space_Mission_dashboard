@@ -37,25 +37,25 @@ KPI Metrics
 - Total Companies: 62
 - Launch Locations: 158
 
-Key Visualizations
+Key Visualizations </br>
 📈 Space Missions Over Time
 - Shows trends in mission launches from 1950s to present
-- Identifies growth phases and peak activity periods
+- Identifies growth phases and peak activity periods </br>
 🚀 Rocket Usage Analysis
 - Displays most frequently used rockets
-- Includes success rate comparison
+- Includes success rate comparison </br>
 ✅ Rocket Success Rate
-- Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%)
+- Highlights high-performing rockets (e.g., Falcon 9 Block 5 with 100%) </br>
 🌍 Mission Launch Map
-- Geographic distribution of launch sites worldwide
+- Geographic distribution of launch sites worldwide </br>
 🏢 Top Launch Organizations
 - Countries/companies with highest number of missions
-- USSR/Russia and USA dominate
+- USSR/Russia and USA dominate </br>
 📊 Success vs Failure Distribution
 - Majority missions are successful (~90%)
-- Small proportion of failures and partial failures
+- Small proportion of failures and partial failures </br>
 📍 Launch Sites Analysis
-- Most active launch sites like Baikonur Cosmodrome
+- Most active launch sites like Baikonur Cosmodrome </br>
 📅 Launch Timeline
 - Tracks missions over years by type
 
